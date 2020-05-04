@@ -118,7 +118,7 @@ function slice(array, from, to) {
 
   return newArray;
 }
-
+ 
 /*
  Задание 6 *:
 
